@@ -240,9 +240,9 @@ $$( ".qt" ).each(function() {
 	  //console.log( $$(this).height());
 		if($$(this).height()>70){
 			if($$(this).height()>90){
-				$$(this).css('top','20%');
+				$$(this).css('top','10%');
 			} else {
-			    $$(this).css('top','25%');
+			    $$(this).css('top','15%');
 			}
 		}
 	});

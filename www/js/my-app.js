@@ -237,12 +237,14 @@ myApp.showTab('#tab'+random);
 //$$('.same-height').css('height','140px');
 getSameHeigh();
 $$( ".qt" ).each(function() {
-	  //console.log( $$(this).height());
-		if($$(this).height()>70){
+	  console.log( $$(this).height());
+		if($$(this).height()>50){
 			if($$(this).height()>90){
 				$$(this).css('top','12%');
-			} else {
+			} if($$(this).height()>70){
 			    $$(this).css('top','15%');
+			} else {
+				 $$(this).css('top','25%');
 			}
 		}
 	});

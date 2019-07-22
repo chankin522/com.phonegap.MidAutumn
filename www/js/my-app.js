@@ -242,7 +242,7 @@ $$( ".qt" ).each(function() {
 			if($$(this).height()>90){
 				$$(this).css('top','10%');
 			} else {
-			    $$(this).css('top','15%');
+			    $$(this).css('top','12%');
 			}
 		}
 	});

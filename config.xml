@@ -33,9 +33,9 @@
    <plugin name="cordova-plugin-inappbrowser" spec="~3.0.0" />
   <plugin name="phonegap-plugin-barcodescanner" spec="7.1.2" />
   
-  <preference name="BackgroundColor" value="#f0e3cc" />
+  <preference name="BackgroundColor" value="#6c422c" />
   <preference name="StatusBarOverlaysWebView" value="false" />
-  <preference name="StatusBarBackgroundColor" value="#f0e3cc" />
+  <preference name="StatusBarBackgroundColor" value="#6c422c" />
   <preference name="DisallowOverscroll" value="true" />
   
   

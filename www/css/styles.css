@@ -122,7 +122,7 @@ body {
 .text-center{ text-align:center;}
 .text-left{ text-align:left;}
 
-.qt{ position:relative; top:35%;}
+.qt{ position:relative; top:25%;}
 .t-10{top:10px !important;}
 .t-5{top:5px !important;}
 .t-0{top:-5px !important;}
@@ -131,11 +131,7 @@ body {
 .btn { display: block; color:#edba77; border:1px solid #edba77; padding:13px 15px 10px 15px; font-size: 14px; }
 .btn-red { display: block; color:#a51929; border:1px solid #a51929; padding:13px 15px 10px 15px; font-size: 16px; }
 
-<<<<<<< HEAD
 .same-height{ font-size: 14px; padding:10px; height: 140px;}
-=======
-.same-height{ font-size: 18px; padding:10px; height: 140px;}
->>>>>>> 5a0065c5b936f88a344f61d30fc395878a2bf886
 .p-30{  padding: 25px 10px 25px 10px;
     line-height: 25px;}
 .wrap-center { 

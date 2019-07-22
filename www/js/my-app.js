@@ -240,9 +240,9 @@ $$( ".qt" ).each(function() {
 	  console.log( $$(this).height());
 		if($$(this).height()>50){
 			if($$(this).height()>90){
-				$$(this).css('top','12%');
+				$$(this).css('top','15%');
 			} if($$(this).height()>70){
-			    $$(this).css('top','15%');
+			    $$(this).css('top','18%');
 			} else {
 				 $$(this).css('top','25%');
 			}
@@ -353,7 +353,7 @@ $$(document).on('pageInit', '.page[data-page="gifts"]', function (e) {
         } else {
           html+='<div><a href="" class="btn-gift" data-id="'+response.gift[x].id+'" data-title="'+response.gift[x].name+'"><img src="images/gift/gift'+response.gift[x].id+'.jpg" width="100%" ></a></div>';
         }
-        html+='<div class="text-center gold fs-14">'+gifttext[response.gift[x].id]+'</div>';
+        html+='<div class="text-center gold fs-11">'+gifttext[response.gift[x].id]+'</div>';
         html+='</div>';
         html+='</div>';
 				

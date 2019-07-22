@@ -402,7 +402,7 @@ i++;
 gifttext[i]='Enjoy 15% off on Peninsula Tea Collection<br/><span class="t-tc">以八五折優惠購買半島名茶系列</span>';
 i++;
 
-gifttext[i]='Enjoy 10% off on Appreciation Chocolates – 12/24 Pieces <br/><span class="t-tc">以九折優惠購買珍嚐系列 - 手工朱古力禮盒 - 12或24粒</span>';
+gifttext[i]='<span style="letter-spacing:-1px;">Enjoy 10% off on Appreciation Chocolates – 12/24 Pieces</span><br/><span class="t-tc">以九折優惠購買珍嚐系列 - 手工朱古力禮盒 - 12或24粒</span>';
 i++;
 
 

@@ -231,8 +231,8 @@ var max = 4;
 var random = Math.floor(Math.random() * (max - min + 1)) + min;
 //alert(random);
 
-//myApp.showTab('#tab'+random);
-myApp.showTab('#tab4');
+myApp.showTab('#tab'+random);
+//myApp.showTab('#tab4');
  //$$('#tab'+random).addClass('active');
 //$$('.same-height').css('height','140px');
 getSameHeigh();

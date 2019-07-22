@@ -342,10 +342,10 @@ $$(document).on('pageInit', '.page[data-page="gifts"]', function (e) {
 				}
         html+='<div class="p10-15" ';
 				 if(x===3){
-					  html+=' style="padding-left:40px;"';
+					  html+=' style="padding-left:20px;"';
 					}
 					if(x===4){
-					  html+=' style="padding-right:40px;"';
+					  html+=' style="padding-right:20px;"';
 					}
 				html+='>';
         if(response.gift[x].stock<=0){

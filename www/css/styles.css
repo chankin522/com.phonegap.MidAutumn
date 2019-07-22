@@ -122,7 +122,11 @@ body {
 .text-center{ text-align:center;}
 .text-left{ text-align:left;}
 
+<<<<<<< HEAD
+.qt{ position:relative; top:28%;}
+=======
 .qt{ position:relative; top:25%;}
+>>>>>>> f477233b5eeb2f1ecc736360bdd9245e66b100c0
 .t-10{top:10px !important;}
 .t-5{top:5px !important;}
 .t-0{top:-5px !important;}
